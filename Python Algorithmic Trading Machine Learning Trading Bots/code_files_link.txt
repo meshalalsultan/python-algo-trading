@@ -1,0 +1,3 @@
+Section 1: Building Trading Algorithms with Python ---> https://github.com/PacktPublishing/Building-Trading-Bots
+
+Section 2: Machine Learning for Algorithmic Trading Bots with Python ---> https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Bots-with-Python
